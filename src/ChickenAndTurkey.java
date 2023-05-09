@@ -18,14 +18,11 @@ public class ChickenAndTurkey {
 	        }
 	        //byran 
 	        //hola que tal
-	        public void ok{
-	        	return;
-	        }
 	}
 	
 	String nombre1 = "Donde esta el commit de toni";
 	String nombre = "Alan";
-	
+	int num = 4;
 	// hola que tasl
 	
 }
