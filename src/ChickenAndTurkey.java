@@ -16,7 +16,11 @@ public class ChickenAndTurkey {
 	        } catch (SQLException e) {
 	            System.out.println("Error al conectar a la base de datos: " + e.getMessage());
 	        }
-
+	        //byran 
+	        //hola que tal
+	        public void ok{
+	        	
+	        }
 	}
 
 }
