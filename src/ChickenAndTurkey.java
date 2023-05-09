@@ -19,7 +19,7 @@ public class ChickenAndTurkey {
 	        //byran 
 	        //hola que tal
 	        public void ok{
-	        	
+	        	return;
 	        }
 	}
 	
