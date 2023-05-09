@@ -24,5 +24,6 @@ public class ChickenAndTurkey {
 	String nombre = "Alan";
 	int num = 4;
 	// hola que tasl
+	int num1 = 234;
 	
 }
