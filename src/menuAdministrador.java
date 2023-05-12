@@ -45,7 +45,7 @@ public class menuAdministrador {
 		int opcion = teclado.nextInt();
 		switch (opcion) {
 		case 1:
-			
+			consultarUsuario();
 			break;
 		case 2:
 
@@ -95,5 +95,10 @@ public class menuAdministrador {
 			break;
 		}
 
+	}
+	
+	public static void carniceros() {
+		System.out.println("******* MENU ADMINISTRADOR *******");
+		System.out.println();
 	}
 }

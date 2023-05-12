@@ -16,7 +16,7 @@ class dbLogin {
         this.password = password;
     }
 
-    public void dbLogin() {
+    public void dbLoginn() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Introduce tu usuario:");
         String userInput = sc.nextLine();
