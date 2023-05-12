@@ -13,7 +13,6 @@ public class ChickenAndTurkey {
             System.out.println("Cargado correctamente");
             System.out.println("Conexión exitosa a la base de datos chickenandturkey.");
             conn.close();
-
             dbLogin login = new dbLogin(urlBD, username, password);
             login.dbLogin(); // Call dbLogin method
         } catch (SQLException e) {
