@@ -55,6 +55,8 @@ public class menuAdministrador {
 			case 3:
 				
 				break;
+			default:
+				break;
 
 		}
 	}
