@@ -73,28 +73,9 @@ public class menuAdministrador {
 	}
 
 	public static void consultarUsuario() {
-		System.out.println("******* MENU ADMINISTRADOR *******");
-		System.out.println(" === Puestos de trabajo ===");
-		System.out.println("1. Carniceros");
-		System.out.println("2. Mozos de alamcen");
-		System.out.println("3. Repartidores");
-		System.out.println("Elige una opcion: ");
-		int opcion = teclado.nextInt();
-		switch (opcion) {
-		case 1:
-
-			break;
-		case 2:
-
-			break;
-		case 3:
-
-			break;
-
-		default:
-			break;
-		}
-
+		System.out.println("Nombre: ");
+		System.out.println("Apellido: ");
+		
 	}
 	
 	public static void carniceros() {

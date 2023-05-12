@@ -7,7 +7,7 @@ public class ChickenAndTurkey {
     public static void main(String[] args) {
         String username = "admin";
         String password = "chicken123";
-        String urlBD = "jdbc:mysql://localhost:3306/chickenandturkey";
+        String urlBD = "jdbc:mysql://localhost:3306/Chickenandturkey";
         try {
             Connection conn = DriverManager.getConnection(urlBD, username, password);
             System.out.println("Cargado correctamente");
