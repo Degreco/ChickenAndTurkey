@@ -18,9 +18,4 @@ public class ChickenAndTurkey {
 		}
 
 	}
-
-	public static void menuAdministrador() {
-		System.out.println("******* MENU ADMINISTRADOR *******");
-	}
-	
 }
