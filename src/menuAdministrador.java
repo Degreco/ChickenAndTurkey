@@ -23,4 +23,9 @@ public class menuAdministrador {
 		System.out.println("Crear vehiculo");
 		System.out.println("Editar vehiculo");
 	}
+
+	public static void consultarUsuario(){
+		System.out.println("Nombre: ");
+		System.out.println("Apellido: ");
+	}
 }
