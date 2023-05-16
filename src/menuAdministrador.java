@@ -45,7 +45,11 @@ public class menuAdministrador {
 		int opcion = teclado.nextInt();
 		switch (opcion) {
 		case 1:
+<<<<<<< Updated upstream
 			consultarUsuario();
+=======
+
+>>>>>>> Stashed changes
 			break;
 		case 2:
 
@@ -75,7 +79,7 @@ public class menuAdministrador {
 	public static void consultarUsuario() {
 		System.out.println("Nombre: ");
 		System.out.println("Apellido: ");
-		
+
 	}
 	
 	public static void carniceros() {
